@@ -9,6 +9,9 @@ public class BaseTest {
 		if (name == null) {
 			name = "Bindu";
 			System.out.println("Name is: " + name);
+		} else {
+			name = "Lakshmi";
+			System.out.println("Name is: " + name);
 		}
 
 	}
